@@ -1,0 +1,27 @@
+2023-01-14 14:50:47,577 INFO preprocess done
+2023-01-14 14:52:37,638 INFO preprocess done
+2023-01-14 14:54:17,686 INFO preprocess done
+2023-01-14 14:54:17,686 INFO converted text into numbers
+2023-01-14 14:54:18,326 INFO prediction value is [[0.13037363]]
+2023-01-14 14:54:18,326 INFO text is not cyber security tweets
+2023-01-14 14:54:18,326 INFO finished time is 19059.434280664-19057.197118214
+2023-01-14 14:57:29,890 INFO preprocess done
+2023-01-14 14:57:29,890 INFO converted text into numbers
+2023-01-14 14:57:30,424 INFO prediction value is [[0.02504184]]
+2023-01-14 14:57:30,424 INFO text is not cyber security tweets
+2023-01-14 14:57:30,424 INFO finished time is 19251.53231776-19249.32820969
+2023-01-14 14:57:54,581 INFO preprocess done
+2023-01-14 14:57:54,581 INFO converted text into numbers
+2023-01-14 14:57:54,662 INFO prediction value is [[0.1017506]]
+2023-01-14 14:57:54,663 INFO text is not cyber security tweets
+2023-01-14 14:57:54,663 INFO finished time is 19275.770687723-19275.688061841
+2023-01-14 14:59:05,674 INFO preprocess done
+2023-01-14 14:59:05,674 INFO converted text into numbers
+2023-01-14 14:59:05,747 INFO prediction value is [[0.99998796]]
+2023-01-14 14:59:05,747 INFO text is cyber security tweets
+2023-01-14 14:59:05,747 INFO finished time is 19346.855481061-19346.78120445
+2023-01-14 15:01:02,051 INFO preprocess done
+2023-01-14 15:01:02,051 INFO converted text into numbers
+2023-01-14 15:01:02,127 INFO prediction value is [[0.01525475]]
+2023-01-14 15:01:02,128 INFO text is not cyber security tweets
+2023-01-14 15:01:02,128 INFO finished time is 19463.235635824-19463.157674615
